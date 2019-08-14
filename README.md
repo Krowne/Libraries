@@ -1,2 +1,15 @@
-# Libraries
-List of libraries available in KMod FWA versions.
+# KMod FWA Libraries 
+
+### v2.7.6
+
+* 2.19.224
+* 2.19.222
+* 2.19.220
+* 2.19.222
+* 2.19.218
+* 2.19.217
+* 2.19.216
+* 2.19.211
+* 2.19.203
+
+***
