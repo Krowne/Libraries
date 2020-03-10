@@ -1,5 +1,10 @@
 # KMod FWA Libraries 
 
+### v2.7.9
+
+* 2.20.75 (Beta)
+* 2.20.73 (Beta)
+
 ### v2.7.8
 
 * 2.19.368 (Beta)
